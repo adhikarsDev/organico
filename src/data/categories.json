@@ -1,0 +1,42 @@
+[
+  {
+    "id": "fruits",
+    "name": "Fresh Fruits",
+    "icon": "Apple",
+    "image": "https://images.pexels.com/photos/1132047/pexels-photo-1132047.jpeg?auto=compress&cs=tinysrgb&w=800",
+    "description": "Organic, seasonal fruits picked at peak ripeness.",
+    "color": "var(--pastel-orange)"
+  },
+  {
+    "id": "vegetables",
+    "name": "Vegetables",
+    "icon": "Carrot",
+    "image": "https://images.pexels.com/photos/1435904/pexels-photo-1435904.jpeg?auto=compress&cs=tinysrgb&w=800",
+    "description": "Pesticide-free vegetables from local farms.",
+    "color": "var(--pastel-green)"
+  },
+  {
+    "id": "dairy",
+    "name": "Dairy & Eggs",
+    "icon": "Milk",
+    "image": "https://images.pexels.com/photos/248412/pexels-photo-248412.jpeg?auto=compress&cs=tinysrgb&w=800",
+    "description": "Grass-fed dairy and pasture-raised eggs.",
+    "color": "var(--pastel-blue)"
+  },
+  {
+    "id": "pantry",
+    "name": "Pantry Essentials",
+    "icon": "Wheat",
+    "image": "https://images.pexels.com/photos/4110251/pexels-photo-4110251.jpeg?auto=compress&cs=tinysrgb&w=800",
+    "description": "Organic grains, oils, and spices.",
+    "color": "var(--pastel-yellow)"
+  },
+  {
+    "id": "beverages",
+    "name": "Beverages",
+    "icon": "Coffee",
+    "image": "https://images.pexels.com/photos/1213447/pexels-photo-1213447.jpeg?auto=compress&cs=tinysrgb&w=800",
+    "description": "Natural juices and organic teas.",
+    "color": "var(--pastel-green)"
+  }
+]

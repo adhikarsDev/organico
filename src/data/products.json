@@ -1,0 +1,90 @@
+[
+  {
+    "id": 1,
+    "name": "Organic Red Apples",
+    "price": 249,
+    "category": "fruits",
+    "image": "https://images.unsplash.com/photo-1570913149827-d2ac84ab3f9a?q=80&w=800&auto=format&fit=crop",
+    "description": "Crisp and sweet organic red apples, perfect for snacking or baking.",
+    "rating": 4.5,
+    "stock": 50,
+    "unit": "per kg"
+  },
+  {
+    "id": 2,
+    "name": "Fresh Organic Spinach",
+    "price": 45,
+    "category": "vegetables",
+    "image": "https://images.unsplash.com/photo-1576045057995-568f588f82fb?q=80&w=800&auto=format&fit=crop",
+    "description": "Nutrient-packed organic spinach leaves, pre-washed and ready to eat.",
+    "rating": 4.8,
+    "stock": 30,
+    "unit": "bunch"
+  },
+  {
+    "id": 3,
+    "name": "Grass-Fed Whole Milk",
+    "price": 85,
+    "category": "dairy",
+    "image": "https://images.unsplash.com/photo-1550583724-1255818c053b?q=80&w=800&auto=format&fit=crop",
+    "description": "Creamy, organic whole milk from grass-fed cows.",
+    "rating": 4.9,
+    "stock": 20,
+    "unit": "1L"
+  },
+  {
+    "id": 4,
+    "name": "Raw Organic Honey",
+    "price": 499,
+    "category": "pantry",
+    "image": "https://images.unsplash.com/photo-1587049352846-4a222e783137?q=80&w=800&auto=format&fit=crop",
+    "description": "Unfiltered and unbaked raw honey from wildflower nectar.",
+    "rating": 4.7,
+    "stock": 15,
+    "unit": "500g"
+  },
+  {
+    "id": 5,
+    "name": "Organic Avocado",
+    "price": 180,
+    "category": "fruits",
+    "image": "https://images.unsplash.com/photo-1523049673857-eb18f1d7b578?q=80&w=800&auto=format&fit=crop",
+    "description": "Creamy Hass avocados, perfectly ripe and rich in healthy fats.",
+    "rating": 4.6,
+    "stock": 40,
+    "unit": "piece"
+  },
+  {
+    "id": 6,
+    "name": "Artisan Sourdough Bread",
+    "price": 120,
+    "category": "pantry",
+    "image": "https://images.unsplash.com/photo-1585478259715-876a6a60ff55?q=80&w=800&auto=format&fit=crop",
+    "description": "Handcrafted sourdough bread made with organic flour and natural levain.",
+    "rating": 4.9,
+    "stock": 10,
+    "unit": "loaf"
+  },
+  {
+    "id": 7,
+    "name": "Organic Blueberries",
+    "price": 350,
+    "category": "fruits",
+    "image": "https://images.unsplash.com/photo-1498557850523-fd3d118b962e?q=80&w=800&auto=format&fit=crop",
+    "description": "Plump and juicy organic blueberries, bursting with antioxidants.",
+    "rating": 4.7,
+    "stock": 25,
+    "unit": "250g"
+  },
+  {
+    "id": 8,
+    "name": "Pasture-Raised Eggs",
+    "price": 150,
+    "category": "dairy",
+    "image": "https://images.unsplash.com/photo-1569288052389-dac9b0ac9fca?q=80&w=800&auto=format&fit=crop",
+    "description": "Large brown eggs from hens that roam freely in organic pastures.",
+    "rating": 4.9,
+    "stock": 18,
+    "unit": "dozen"
+  }
+]
